@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+pyttsx3
+openai
+sounddevice
+scipy
+python-dotenv
+# Optional for local STT and faster inference (install only if you have resources):
+# openai-whisper
+# torch
